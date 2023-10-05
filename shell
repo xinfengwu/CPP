@@ -1,0 +1,11 @@
+/* Programming Exercise  */
+#include<stdio.h>
+
+int main(void)
+{
+    int *p;
+    scanf("Input here:%d",p);
+    printf("What you inputed is: %p\n",&p);
+    printf("What you inputed is: %d\n",*p);
+    return 0;   
+}

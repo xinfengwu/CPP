@@ -11,3 +11,12 @@
 - PE即指Programming Exercise
 - 02即指第2章
 - 09即指第9题 
+Thu Oct  5 03:34:49 PM CST 2023
+# New Naming Convention
+Code files beginning with P,are created since Thu Oct  5 03:34:49 PM CST 2023, bases on Stephen Prata 2013 C Primer Plus Sixth Edition.
+P373_01.c as example:
+- P represent page.
+- 373: page Number.
+- 01: sequence of code files.
+- Note: which means something written by myself.
+
